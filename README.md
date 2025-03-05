@@ -20,10 +20,10 @@ The figma includes two diagrams:
 
 While the data used for this POC is essentially dummy data (it's too old and too sparse to be reliable), the issue this project solves is a real one, at least in my personal experience. 
 
-**Complete files: **
+**Complete files:**
 1. _rest_data_exploration.ipynb_ - construction of a working dataset** that will be used for enrichment and reccomendations; the notebook includes the full process from four seperate tables to the final product, including all the considerations that went into processing. The notebook concludes with some descritipve statistics about the working dataset. 
 
-**Work in Progress: **
+**Work in Progress:**
 1. _cuisine_exploration.ipynb_ - is a wip notebook, preparing for enriching the data for recommender using machine learning methods.
 2. _item_prediction.ipynb_ - data enrichemnt using probabilistic methods.
 3. _review_sent_analysis.ipynb_ - extracting recommended items using aspect-based sentiment analysis (ABSA). 
