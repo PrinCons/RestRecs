@@ -5,6 +5,7 @@ The aim here is not to find the absolute best place to eat, but rather to find a
 
 see projetc structure plan here: 
 https://www.figma.com/board/AQLD5w02zfO4W1SyS9XRGD/Restaurant-Recommender?node-id=0-1&t=GldYO8Z9WjQPcsbr-1
+
 The figma includes two diagrams: one for the main project, another for the rec engine. 
 
 While the data used for this POC is essentially dummy data (it's too old and too sparse to be reliable), the issue this project solves is a real one, at least in my personal experience. 
