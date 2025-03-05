@@ -9,8 +9,8 @@ This solution is meant to be a work with a simple input: name a cuisine or a dis
 The aim here is not to find the absolute best place to eat, but rather to find a place where one can fulfill their dining wishes here and now to a satisfactory degree; in simple terms - I don't want to stand in line for an hour to eat a "the best" taco everyone's talking about on social media and ranking highly on Google Maps if there's a delicious nopale taco waiting for me behind the corener. 
 
 ### Diagrams
-see projetc structure plan here: 
-https://www.figma.com/board/AQLD5w02zfO4W1SyS9XRGD/Restaurant-Recommender?node-id=0-1&t=GldYO8Z9WjQPcsbr-1
+
+[project structure plan diagrams](https://www.figma.com/board/AQLD5w02zfO4W1SyS9XRGD/Restaurant-Recommender?node-id=0-1&t=GldYO8Z9WjQPcsbr-1)
 
 The figma includes two diagrams: 
 - main project 
