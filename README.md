@@ -21,11 +21,11 @@ The figma includes two diagrams:
 While the data used for this POC is essentially dummy data (it's too old and too sparse to be reliable), the issue this project solves is a real one, at least in my personal experience. 
 
 **Complete files:**
-1. [_rest_data_exploration.ipynb_](https://github.com/PrinCons/RestRecs/blob/e0e59f8b1dffd4f2a75f791572838840b7cfa714/models/research/rest_data_exploration.ipynb) - construction of a working dataset** that will be used for enrichment and reccomendations; the notebook includes the full process from four seperate tables to the final product, including all the considerations that went into processing. The notebook concludes with some descritipve statistics about the working dataset. 
+1. [_rest_data_exploration.ipynb_](https://github.com/PrinCons/RestRecs/blob/e0e59f8b1dffd4f2a75f791572838840b7cfa714/models/research/rest_data_exploration.ipynb) - construction of a working dataset** that will be used for enrichment and reccomendations; the notebook includes the full process from four seperate tables to the final product, including all the considerations that went into processing. The notebook concludes with some descritipve statistics about the working dataset.
+2.  [_cuisine_exploration.ipynb_](https://github.com/PrinCons/RestRecs/blob/e0e59f8b1dffd4f2a75f791572838840b7cfa714/models/research/cuisine_exploration.ipynb) - preparing for enriching the data for recommender using machine learning methods; using Word2Vec to create a set of tagged menus and cuisines to be used as a training set in the next step.
 
-**Work in Progress:**
-1. [_cuisine_exploration.ipynb_](https://github.com/PrinCons/RestRecs/blob/e0e59f8b1dffd4f2a75f791572838840b7cfa714/models/research/cuisine_exploration.ipynb) - preparing for enriching the data for recommender using machine learning methods; using Word2Vec to model cuisines by menus combined with logistic regression for menu classification. 
-2. _item_prediction.ipynb_ - data enrichemnt using probabilistic methods.
+**Work in Progress:** 
+2. _item_prediction.ipynb_ - data enrichemnt using logistic regression for menu classification. 
 3. _review_sent_analysis.ipynb_ - extracting recommended items using aspect-based sentiment analysis (ABSA). 
 4. _recommener.ipynb_ - the actual recomendation engine, filtering and ranking to output a single recomendation.
 
